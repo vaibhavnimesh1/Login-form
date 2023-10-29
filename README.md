@@ -1,8 +1,3 @@
-# React + Vite
+live link : https://login-form-fawn-psi.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2023-10-29 105414](https://github.com/vaibhavnimesh1/Login-form/assets/98076349/85770f51-7008-4367-a3b3-1f52773e6839)
